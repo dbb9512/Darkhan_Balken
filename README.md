@@ -20,7 +20,7 @@ Novosibirsk State Technical University (specialty **Aircraft and helicopter indu
 ![VsCode](https://img.shields.io/badge/VsCode-090909?style=for-the-badge&logo=VisualStudio&logoColor=20B2AA)
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=00BFFF)
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git)
-![FastAPI](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=FastAPI)
+![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=FastAPI)
 ![Flask](https://img.shields.io/badge/Flask-090909?style=for-the-badge&logo=Flask)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker)     
 
